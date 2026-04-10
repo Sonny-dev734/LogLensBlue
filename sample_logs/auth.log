@@ -1,0 +1,8 @@
+Mar  8 09:05:11 debian sshd[14880]: Failed password for invalid user admin from 192.0.2.1 port 12345 ssh2
+Mar  8 09:05:14 debian sshd[14880]: Failed password for invalid user admin from 192.0.2.1 port 12345 ssh2
+Mar  8 09:05:25 debian sshd[14880]: Accepted password for root from 192.0.2.1 port 12345 ssh2
+
+
+
+
+

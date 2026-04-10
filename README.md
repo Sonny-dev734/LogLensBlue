@@ -1,4 +1,4 @@
-k# LogLensBlue – Analyse de logs SSH
+# LogLensBlue – Analyse de logs SSH
 
 Petit outil personnel permettant d’analyser les logs SSH (`/var/log/auth.log` ou tout fichier compatible) pour détecter les tentatives de connexion suspectes.  
 Le but est de comprendre ce qui se passe sur une machine Linux, sans attaque ni scan autre que la lecture des logs existants.
